@@ -34,8 +34,8 @@ python3 -m venv env
 4️. Build and Start the Docker Containers
 
 ```bash
-docker-compose build
-docker-compose up
+sudo docker-compose build
+sudo docker-compose up
 ```
 
 5️. Access Swagger API Documentation
@@ -56,6 +56,8 @@ Once the app is running, open the **Swagger UI** in  browser: [Swagger API Docs]
   docker-compose down -v
   docker-compose up --build
   ```
+- Data from users.json is inserted in DB on intialising the docker-compose
+
 
 
 
