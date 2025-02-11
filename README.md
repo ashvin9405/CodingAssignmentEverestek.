@@ -1,6 +1,7 @@
 
-Flask and PostgreSQL Dockerized App Exercise
-Steps to Set Up the Project
+**Flask and PostgreSQL Dockerized App Exercise**
+
+**Steps to Set Up the Project**
 
 1️. Clone the Git Repository
 
@@ -17,15 +18,15 @@ python3 -m venv env
 
 3️. Activate the Virtual Environment
 
-- **On macOS/Linux:**
+- On macOS/Linux:
   ```bash
   source env/bin/activate
   ```
-- **On Windows (Command Prompt):**
+- On Windows (Command Prompt):
   ```cmd
   env\Scripts\activate
   ```
-- **On Windows (PowerShell):**
+- On Windows (PowerShell):
   ```powershell
   env\Scripts\Activate.ps1
   ```
