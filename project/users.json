@@ -1,0 +1,23 @@
+[
+    {
+        "first_name": "Ashvin",
+        "last_name": "Bhutekar",
+        "age": 32,
+        "dob": "1991-10-26",
+        "university_grade": 3.8
+    },
+    {
+        "first_name": "John",
+        "last_name": "Doe",
+        "age": 29,
+        "dob": "1994-06-15",
+        "university_grade": 3.5
+    },
+    {
+        "first_name": "akash",
+        "last_name": "Bhosale",
+        "age": 27,
+        "dob": "1996-04-22",
+        "university_grade": 3.9
+    }
+]
